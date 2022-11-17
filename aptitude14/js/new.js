@@ -1,3 +1,3 @@
 var x=16;
-math.sqrt(x);
-alert(x);
+let y=Math.sqrt(x);
+alert(y);
