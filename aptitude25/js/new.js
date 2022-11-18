@@ -1,0 +1,10 @@
+var distancew=parseInt(prompt("enter distancew"));
+var distancer=parseInt(prompt("enter distancer"));
+var distancet=parseInt(prompt("enter distancet"));
+var speedw=parseInt(prompt("enter speedw"));
+var speedr=parseInt(prompt("enter speedr"));
+var speedt=parseInt(prompt("enter speedt"));
+d=distancew+distancer+distancet;
+s=speedw+speedw+speedw;
+t=d/s;
+alert(t);

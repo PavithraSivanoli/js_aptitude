@@ -1,0 +1,11 @@
+var bs=prompt("enter bs");
+var T=prompt("enter T");
+var u;
+u=bs+T;
+alert(u);
+var d;
+d=bs-T;
+alert(d);
+var total;
+total=(d/bs+d/bs);
+alert(total);

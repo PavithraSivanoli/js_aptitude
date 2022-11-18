@@ -1,0 +1,3 @@
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+let index = fruits.indexOf("Apple");
+alert(fruits);

@@ -1,0 +1,12 @@
+var bs=prompt("enter bs");
+var ss=prompt("enter ss");
+var speed;
+bs=parseInt(bs);
+ss=parseInt(ss);
+speed=bs+ss;
+var speed;
+var distance=prompt("enter distance");
+var time;
+distance=parseInt(distance);
+time=distance/speed;
+alert(time);
